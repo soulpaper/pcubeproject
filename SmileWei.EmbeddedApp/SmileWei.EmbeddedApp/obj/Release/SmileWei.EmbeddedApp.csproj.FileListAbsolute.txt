@@ -1,0 +1,6 @@
+C:\Users\paper\Downloads\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Release\AppContainer.bmp
+C:\Users\paper\Downloads\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Release\SmileWei.EmbeddedApp.dll
+C:\Users\paper\Downloads\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Release\SmileWei.EmbeddedApp.pdb
+C:\Users\paper\Downloads\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Release\SmileWei.EmbeddedApp.csprojResolveAssemblyReference.cache
+C:\Users\paper\Downloads\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Release\SmileWei.EmbeddedApp.dll
+C:\Users\paper\Downloads\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Release\SmileWei.EmbeddedApp.pdb

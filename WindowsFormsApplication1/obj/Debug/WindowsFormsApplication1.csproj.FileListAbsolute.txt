@@ -1,0 +1,13 @@
+c:\users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Debug\MWArray.dll
+c:\users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Debug\Untitled1.dll
+c:\users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Debug\MWArray.xml
+c:\users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Debug\ManagedCPPAPI.netmodule
+c:\users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

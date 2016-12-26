@@ -1,0 +1,10 @@
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\testc.dll

@@ -1,0 +1,17 @@
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\Microsoft.CSharp.dll
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\System.Data.dll
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\System.Deployment.dll
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\System.dll
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\System.Drawing.dll
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\System.Windows.Forms.dll
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\bin\Release\ttest1.dll
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Release\pcube.csprojResolveAssemblyReference.cache
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\paper\documents\visual studio 2013\Projects\WindowsFormsApplication1\obj\Release\pcube.csproj.GenerateResource.Cache
